@@ -1,0 +1,9 @@
+body {
+  /* Winter 2022 Commit Colors, I was able to find these through
+     inspect element for some reason, so this was somewhat intentional.
+     There's also Halloween colors and stuff, it's crazy. */
+  --color-calendar-graph-day-L4-bg: #B6E3FF;
+  --color-calendar-graph-day-L3-bg: #54AEFF;
+  --color-calendar-graph-day-L2-bg: #0969DA;
+  --color-calendar-graph-day-L1-bg: #0A3069;
+}
